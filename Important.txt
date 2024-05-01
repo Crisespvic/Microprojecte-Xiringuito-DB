@@ -1,0 +1,4 @@
+Aquest projecte fet per a l'assignatura de Base de dades consta de 3 parts.
+1- Un fitxer de python anomenat CreaBDxiringuito que s'ha de executar en primer lloc per a crear el fitxer de la base de dades.
+2- Un fitxer executable també de python que conté l'interfície de l'aplicació. S'ha d'executar després del fitxer CreaBDxiringuito.
+3- Un PDF que inclou la memòria del projecte.
