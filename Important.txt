@@ -1,4 +1,17 @@
+CONTINGUT:
 Aquest projecte fet per a l'assignatura de Base de dades consta de 3 parts.
-1- Un fitxer de python anomenat CreaBDxiringuito que s'ha de executar en primer lloc per a crear el fitxer de la base de dades.
-2- Un fitxer executable també de python que conté l'interfície de l'aplicació. S'ha d'executar després del fitxer CreaBDxiringuito.
+1- Un fitxer de python anomenat CreaBDxiringuito que s'encarrega de crear el fitxer de la base de dades.
+2- Un fitxer executable també de python anomenat projecte.py que conté l'interfície de l'aplicació.
 3- Un PDF que inclou la memòria del projecte.
+
+REQUERIMENTS:
+S.O Windows 10
+Python3
+
+INSTRUCCIONS D'ÚS:
+-Descarregar l'última versió de python 3.12.3 : https://www.python.org/downloads/
+-Instal.lar python 3.12.3
+-Executar fitxer CreaBDxiringuito
+-Executar fitxer projecte.py
+
+
